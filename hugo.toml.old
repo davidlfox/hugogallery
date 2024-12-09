@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = 'ABC Widgets, Inc.'
+title = 'ABC Widgets, Inc. test'
 [module]
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
